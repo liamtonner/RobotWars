@@ -27,6 +27,8 @@ public class Robot(Arena arena, Position startPosition)
                 MoveForward();
                 break;
         }
+
+        ReportStatus();
     }
 
     private void TurnLeft()
@@ -92,5 +94,10 @@ public class Robot(Arena arena, Position startPosition)
     public int GetPenalties()
     {
         return Penalties;
+    }
+
+    private void ReportStatus()
+    {
+        Console.WriteLine($"Position: {Position.X}, {Position.Y}, {Position.Heading} | Penalties: {Penalties}");
     }
 }
