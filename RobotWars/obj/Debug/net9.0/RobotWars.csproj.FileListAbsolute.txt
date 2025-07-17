@@ -1,0 +1,11 @@
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\bin\Debug\net9.0\RobotWars.deps.json
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\bin\Debug\net9.0\RobotWars.dll
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\bin\Debug\net9.0\RobotWars.pdb
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.AssemblyInfoInputs.cache
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.AssemblyInfo.cs
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.csproj.CoreCompileInputs.cache
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.dll
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\refint\RobotWars.dll
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\RobotWars.pdb
+C:\Users\LiamTonner\RiderProjects\RobotWars\RobotWars\obj\Debug\net9.0\ref\RobotWars.dll
